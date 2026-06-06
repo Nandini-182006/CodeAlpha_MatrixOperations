@@ -1,20 +1,20 @@
-#Matrix Operations
+# Matrix Operations
 
-##Description
+## Description
 
 This project implements Matrix Addition, Matrix Multiplication, and Matrix Transpose using functions and two-dimensional arrays in C Programming.
 
-##Features
+## Features
 
 - Matrix Addition
 - Matrix Multiplication
 - Matrix Transpose
 
-##Technologies Used
+## Technologies Used
 
 - C Programming
 
-##How to Run
+## How to Run
 
 1. Compile the program using a C compiler.
 2. Run the executable file.
@@ -22,7 +22,7 @@ This project implements Matrix Addition, Matrix Multiplication, and Matrix Trans
 4. Enter the matrix elements.
 5. View the result.
 
-##Sample Output
+## Sample Output
 
 Matrix Addition:
 
@@ -36,16 +36,16 @@ Matrix Addition:
 
 7 8
 
-##Result:
+## Result:
 
 6 8
 
 10 12
 
-##Author
+## Author
 
 Nandini Borra
 
-##Internship
+## Internship
 
 CodeAlpha C Programming Internship
